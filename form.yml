@@ -1,0 +1,13 @@
+cluster: "tesla"
+title: "TensorBoard"
+
+form:
+  - logdir
+  - bc_num_hours
+  - bc_email_on_started
+
+attributes:
+  logdir:
+    label: 'Log Directory'
+    data-filepicker: true
+    requried: true
