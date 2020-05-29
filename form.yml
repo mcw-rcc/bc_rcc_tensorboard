@@ -10,4 +10,4 @@ attributes:
   logdir:
     label: 'Log Directory'
     data-filepicker: true
-    requried: true
+    required: true
